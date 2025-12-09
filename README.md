@@ -282,9 +282,9 @@ If you use this work in your research or projects, please cite:
 
 ```bibtex
 @software{health_ml_warning_2024,
-  author = {[Your Name]},
+  author = {[adem sahli]},
   title = {Personal Health Early-Warning System},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/sahliadem0106/health-ml-early-warning}
 }
 ```
@@ -299,12 +299,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**[Your Name]**  
-[Your University/Institution]  
-[your.email@example.com]  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sahliadem0106)
-
-*Developed as part of ETH Zurich SSRF application demonstrating competency in machine learning, data engineering, and health informatics.*
+**[adem sahli]**  
+[Higher Institute of Computer Science - Tunisia (ISI)]  
+[sahliadem0106@gmail.com]  
+[LinkedIn](https://www.linkedin.com/in/adem-sahli-322654345/) | [GitHub](https://github.com/sahliadem0106)
 
 ---
 
