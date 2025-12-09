@@ -312,7 +312,7 @@ MIT License - see [LICENSE](LICENSE) file
 **[adem sahli]**  
 [Higher Institute of Computer Science - Tunisia (ISI)]  
 [sahliadem0106@gmail.com]  
-[LinkedIn]((https://www.linkedin.com/in/adem-sahli-322654345/) | [GitHub](https://github.com/sahliadem0106)
+[LinkedIn](https://www.linkedin.com/in/adem-sahli-322654345/) | [GitHub](https://github.com/sahliadem0106)
 
 
 ---
