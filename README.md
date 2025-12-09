@@ -312,11 +312,10 @@ MIT License - see [LICENSE](LICENSE) file
 ## Author
 
 **[adem sahli]**  
-[Your University]  
-[your.email@example.com]  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sahliadem0106)
+[Higher Institute of Computer Science - Tunisia (ISI)]  
+[sahliadem0106@gmail.com]  
+[LinkedIn]((https://www.linkedin.com/in/adem-sahli-322654345/) | [GitHub](https://github.com/sahliadem0106)
 
-*Developed as part of ETH Zurich SSRF application, demonstrating ML implementation skills, scientific methodology, and intellectual honesty in reporting results.*
 
 ---
 
@@ -324,4 +323,4 @@ MIT License - see [LICENSE](LICENSE) file
 
 This project represents a realistic ML learning journey, including both successes (anomaly detection) and challenges (overfitting). Special thanks to the open-source ML community for excellent tools and documentation.
 
-**Note**: This is an educational project demonstrating ML concepts. Not intended for clinical use.
+**Note**: This is an educational project demonstrating ML concepts. Not intended for clinical use.(one day)
